@@ -1,0 +1,5 @@
+# CSVs sao importados via Import Wizard / BULK INSERT no SQL Server.
+# Forcar CRLF evita falha de carga em clone feito no Linux/macOS.
+*.csv text eol=crlf
+*.sql text eol=crlf
+*.md  text eol=lf

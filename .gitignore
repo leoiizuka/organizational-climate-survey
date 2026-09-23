@@ -1,0 +1,14 @@
+# SQL Server
+*.mdf
+*.ldf
+*.bak
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

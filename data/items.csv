@@ -1,0 +1,63 @@
+item_id,bloco,texto
+1,Comunicação Organizacional,"Os canais de comunicação formais (mensagens, e-mails, reuniões, telefone, outros) são adequados para transmitir informações importantes dentro da Organização."
+2,Comunicação Organizacional,As informações disponibilizadas nos canais de comunicação são claras e objetivas.
+3,Comunicação Organizacional,As informações são repassadas com agilidade dentro dos canais de comunicação.
+4,Comunicação Organizacional,Sou comunicado pela Organização a respeito de assuntos relevantes para minha atuação profissional.
+5,Comunicação Organizacional,As diferentes unidades/áreas da Organização trocam informações de forma ágil e efetiva para o bom andamento dos processos de trabalho.
+6,Liderança (Imediata),Meu superior imediato delega responsabilidades e tarefas de acordo com minhas competências.
+7,Liderança (Imediata),Meu superior imediato gerencia conflitos que surgem no ambiente de trabalho.
+8,Liderança (Imediata),Meu superior imediato me presta o suporte necessário para o desenvolvimento do trabalho.
+9,Liderança (Imediata),"Meu superior imediato me transmite, periodicamente, feedbacks efetivos que contribuem para a evolução de meu trabalho."
+10,Liderança (Imediata),Meu superior imediato estimula a melhoria contínua de meu desempenho no trabalho.
+11,Liderança (Imediata),"Meu superior imediato leva em consideração minhas ideias, sugestões e pontos de vista nos processos decisórios."
+12,Liderança (Imediata),Meu superior imediato trata todos da equipe de forma justa e igualitária.
+13,Liderança (Imediata),"Meu superior imediato permite que eu conduza meu trabalho, sem ficar me vigiando."
+14,Liderança (Imediata),Meu superior imediato me incentiva a buscar soluções para os desafios encontrados do trabalho.
+15,Orientação para o Desempenho,"Compreendo claramente quais são as minhas tarefas, metas e objetivos de trabalho."
+16,Orientação para o Desempenho,"Tenho conhecimento das estratégias, objetivos e prioridades da organização."
+17,Orientação para o Desempenho,Compreendo a contribuição de meu trabalho para o atingimento das metas e objetivos organizacionais.
+18,Orientação para o Desempenho,Consigo acessar todas as informações necessárias para a realização de minhas tarefas.
+19,Orientação para o Desempenho,Tenho a oportunidade de utilizar diferentes habilidades e competências para a realização de meu trabalho.
+20,Orientação para o Desempenho,Tenho autonomia suficiente para planejar e executar as minhas atividades com meu estilo pessoal.
+21,Relacionamento Interpessoal,"As pessoas se tratam com respeito, independentemente do cargo que ocupam e de suas características individuais."
+22,Relacionamento Interpessoal,"As pessoas respeitam umas às outras quando há diversidade (gênero, raça, religião e orientação sexual)."
+23,Relacionamento Interpessoal,"No meu setor, as pessoas trabalham em conjunto, como uma equipe integrada."
+24,Relacionamento Interpessoal,Aqui as pessoas confiam umas nas outras para a realização do trabalho.
+25,Relacionamento Interpessoal,Aqui as pessoas cooperam umas com as outras quando alguém está com dificuldades no trabalho ou pessoais.
+26,Relacionamento Interpessoal,Aqui as pessoas compartilham informações e experiências relevantes para o desempenho do trabalho.
+27,Remuneração e Benefícios,Considero a minha remuneração justa e compatível com relação ao meu nível de contribuição e desempenho no trabalho.
+28,Remuneração e Benefícios,Tenho uma remuneração condizente com o mercado.
+29,Remuneração e Benefícios,Tenho benefícios compatíveis com os de outras organizações semelhantes.
+30,Remuneração e Benefícios,Trabalho em uma Organização que remunera os empregados que realizam atividades semelhantes com salários equivalentes.
+31,Remuneração e Benefícios,Acredito que a minha Organização possui uma política de benefícios que atende as minhas necessidades.
+32,Reconhecimento e Carreira,"Nesta Organização, as pessoas têm oportunidades de crescimento e promoção na carreira profissional."
+33,Reconhecimento e Carreira,Tenho conhecimento sobre os critérios utilizados para o crescimento e promoção na Organização.
+34,Reconhecimento e Carreira,"Acredito que, se me esforçar e tiver bom desempenho, consigo progredir na Organização."
+35,Reconhecimento e Carreira,Aqui o bom trabalho e o esforço para o alcance dos resultados é reconhecido.
+36,Reconhecimento e Carreira,A Organização compartilha os bons resultados e as conquistas alcançadas.
+37,Treinamento e Desenvolvimento,A Organização me proporciona treinamentos que melhoram meu desempenho nas minhas tarefas e atividades.
+38,Treinamento e Desenvolvimento,A Organização me concede tempo e recursos suficientes para poder participar de ações de capacitação e desenvolvimento.
+39,Treinamento e Desenvolvimento,Os treinamentos oferecidos pela Organização são suficientes para o desenvolvimento das competências necessárias para o meu trabalho.
+40,Treinamento e Desenvolvimento,As oportunidades de treinamento oferecidas pela Organização atendem às minhas expectativas para o desenvolvimento.
+41,Treinamento e Desenvolvimento,A Organização me incentiva a buscar meios de me desenvolver profissionalmente.
+42,Condições Físicas do Ambiente,"As condições físicas do meu ambiente de trabalho (mobiliário, espaço físico, ergonomia) estão apropriadas para o bom desempenho."
+43,Condições Físicas do Ambiente,"Tenho a infraestrutura material e tecnológica necessária (máquinas, equipamentos, ferramentas e materiais) para realização do meu trabalho."
+44,Condições Físicas do Ambiente,A Organização disponibiliza de sistemas/softwares e outras soluções tecnológicas funcionais e eficazes para a realização do trabalho.
+45,Condições Físicas do Ambiente,"As condições de infraestrutura disponíveis são adequadas para a realização do trabalho (iluminação, ruído e ventilação)."
+46,Condições Físicas do Ambiente,"As condições de segurança, limpeza e conservação são satisfatórias (ambiente de trabalho, infraestrutura predial, banheiros e áreas comuns)."
+47,Imagem Organizacional,Admiro os valores e princípios desta Organização.
+48,Imagem Organizacional,Sinto orgulho quando digo a outras pessoas que trabalho nesta Organização.
+49,Imagem Organizacional,Acredito na qualidade dos produtos ou serviços ofertados por esta Organização.
+50,Imagem Organizacional,"Trabalho em uma Organização transparente, confiável e ética."
+51,Imagem Organizacional,Trabalho em uma Organização que transmite uma imagem positiva ao público externo.
+52,Qualidade de Vida,Trabalho em uma Organização que promove ações para cuidar da saúde e do bem-estar de seus membros no trabalho.
+53,Qualidade de Vida,"Trabalho em uma Organização que toma cuidado para evitar a sobrecarga de tarefas, respeitando o horário de trabalho."
+54,Qualidade de Vida,"Trabalho em uma Organização que encoraja o equilíbrio entre a vida profissional e pessoal (família, amigos, lazer)."
+55,Qualidade de Vida,Trabalho em uma Organização que toma medidas adequadas para preservar a saúde mental das suas equipes.
+56,Qualidade de Vida,"Sinto que a Organização em que trabalho previne e combate efetivamente situações de assédio moral, assédio sexual e discriminação."
+57,Qualidade de Vida,"Trabalho em uma Organização que reconhece e atua na prevenção de problemas como estresse, ansiedade, depressão e burnout, oferecendo apoio adequado aos colaboradores."
+58,Engajamento de Colaboradores,Pretendo continuar trabalhando nesta Organização pelos próximos anos.
+59,Engajamento de Colaboradores,Sinto-me motivado(a) a construir minha carreira nesta Organização.
+60,Engajamento de Colaboradores,"Se recebesse uma proposta de outra empresa com condições semelhantes, eu permaneceria nesta Organização."
+61,Engajamento de Colaboradores,Recomendaria esta Organização como um bom lugar para trabalhar.
+62,Engajamento de Colaboradores,"Considero meu trabalho sustentável no longo prazo, sem prejuízo à minha saúde e bem-estar."

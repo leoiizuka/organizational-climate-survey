@@ -1,0 +1,101 @@
+respondent_id,sexo,faixa_etaria,tempo_casa,escolaridade,regime,nivel,setor,unidade,departamento,cargo,tipo_cargo,subordinacao
+1,Feminino,26 a 35 anos,De 3 a 5 anos,Ensino Médio,CLT,Operacional,Comercial,Rio Manso - GO,Comercial - Vendas,Analista Financeiro,Consultor Comercial,Gerência Administrativa
+2,Masculino,36 a 45 anos,Menos de 1 ano,Ensino Superior,CLT,Liderança,Backoffice,Serra Alta - GO,Recursos Humanos,Consultor de Vendas,Cargo de Gestão,Gerência Administrativa
+3,Feminino,Até 25 anos,De 1 a 3 anos,Pós-Graduação,CLT,Operacional,Backoffice,Serra Alta - GO,Financeiro,Consultor de Vendas,Consultor Comercial,Gerência Administrativa
+4,Masculino,26 a 35 anos,De 1 a 3 anos,Ensino Superior,CLT,Operacional,Backoffice,Campo Verde - GO,Comercial - Vendas,Analista Administrativo,Auxiliar/Assistente,Gerência Comercial - Sul
+5,Masculino,26 a 35 anos,Acima de 5 anos,Ensino Médio,CLT,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Analista Administrativo,Analista/Especialista,Gerência Comercial - Norte
+6,Masculino,26 a 35 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Monte Claro - GO,Logística - Armazenagem,Analista Administrativo,Consultor Comercial,Gerência Comercial - Norte
+7,Masculino,Acima de 45 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Consultor de Vendas,Consultor Comercial,Gerência Comercial - Norte
+8,Feminino,26 a 35 anos,De 1 a 3 anos,Pós-Graduação,CLT,Operacional,Backoffice,Monte Claro - GO,Administrativo,Auxiliar Administrativo,Auxiliar/Assistente,Gerência Financeira
+9,Feminino,Acima de 45 anos,Acima de 5 anos,Ensino Médio,CLT,Operacional,Comercial,Serra Alta - GO,Financeiro,Assistente de Estoque,Consultor Comercial,Gerência Financeira
+10,Feminino,26 a 35 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Recursos Humanos,Auxiliar Administrativo,Cargo de Gestão,Gerência Comercial - Norte
+11,Masculino,26 a 35 anos,Menos de 1 ano,Ensino Superior,CLT,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Consultor de Vendas,Consultor Comercial,Gerência Administrativa
+12,Feminino,26 a 35 anos,Menos de 1 ano,Pós-Graduação,CLT,Operacional,Comercial,Serra Alta - GO,Logística - Armazenagem,Consultor de Vendas,Cargo de Gestão,Gerência Comercial - Sul
+13,Masculino,26 a 35 anos,Menos de 1 ano,Ensino Médio,CLT,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Analista de RH,Auxiliar/Assistente,Gerência Administrativa
+14,Masculino,Até 25 anos,De 3 a 5 anos,Pós-Graduação,PJ,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Auxiliar Administrativo,Auxiliar/Assistente,Gerência Comercial - Norte
+15,Feminino,26 a 35 anos,Acima de 5 anos,Pós-Graduação,PJ,Operacional,Backoffice,Campo Verde - GO,Comercial - Vendas,Gerente Comercial,Auxiliar/Assistente,Gerência Administrativa
+16,Feminino,26 a 35 anos,De 1 a 3 anos,Ensino Superior,Outros,Operacional,Backoffice,Monte Claro - GO,Recursos Humanos,Analista Financeiro,Consultor Comercial,Gerência Administrativa
+17,Feminino,26 a 35 anos,De 3 a 5 anos,Pós-Graduação,PJ,Operacional,Backoffice,Vale Dourado - MG,Comercial - Vendas,Analista Administrativo,Cargo de Gestão,Gerência Comercial - Norte
+18,Masculino,26 a 35 anos,Menos de 1 ano,Pós-Graduação,CLT,Operacional,Backoffice,Serra Alta - GO,Logística - Armazenagem,Analista de RH,Analista/Especialista,Gerência Administrativa
+19,Feminino,26 a 35 anos,Acima de 5 anos,Pós-Graduação,CLT,Operacional,Backoffice,Campo Verde - GO,Comercial - Vendas,Analista Administrativo,Consultor Comercial,Gerência Administrativa
+20,Masculino,36 a 45 anos,De 3 a 5 anos,Pós-Graduação,CLT,Liderança,Backoffice,Serra Alta - GO,Comercial - Vendas,Assistente de Estoque,Auxiliar/Assistente,Gerência Comercial - Norte
+21,Feminino,26 a 35 anos,Menos de 1 ano,Pós-Graduação,CLT,Operacional,Backoffice,Monte Claro - GO,Logística - Armazenagem,Analista de RH,Auxiliar/Assistente,Diretoria Comercial
+22,Masculino,Até 25 anos,De 1 a 3 anos,Ensino Médio,CLT,Operacional,Comercial,Serra Alta - GO,Logística - Administrativo,Analista Administrativo,Auxiliar/Assistente,Diretoria Comercial
+23,Masculino,36 a 45 anos,Menos de 1 ano,Ensino Superior,CLT,Operacional,Backoffice,Rio Manso - GO,Financeiro,Auxiliar Administrativo,Cargo de Gestão,Diretoria Comercial
+24,Masculino,26 a 35 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Monte Claro - GO,Logística - Administrativo,Auxiliar Administrativo,Cargo de Gestão,Gerência Administrativa
+25,Masculino,Acima de 45 anos,Acima de 5 anos,Ensino Médio,CLT,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Analista Administrativo,Analista/Especialista,Gerência Comercial - Sul
+26,Feminino,36 a 45 anos,De 3 a 5 anos,Ensino Médio,PJ,Liderança,Comercial,Monte Claro - GO,Logística - Armazenagem,Gerente Comercial,Cargo de Gestão,Gerência Comercial - Sul
+27,Feminino,26 a 35 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Financeiro,Analista Financeiro,Consultor Comercial,Gerência Financeira
+28,Masculino,26 a 35 anos,Menos de 1 ano,Pós-Graduação,PJ,Liderança,Comercial,Serra Alta - GO,Comercial - Vendas,Auxiliar Administrativo,Auxiliar/Assistente,Gerência Administrativa
+29,Masculino,Acima de 45 anos,Acima de 5 anos,Ensino Superior,CLT,Liderança,Backoffice,Campo Verde - GO,Comercial - Vendas,Consultor de Vendas,Analista/Especialista,Gerência Financeira
+30,Feminino,Acima de 45 anos,De 3 a 5 anos,Pós-Graduação,CLT,Liderança,Comercial,Vale Dourado - MG,Logística - Armazenagem,Assistente de Estoque,Analista/Especialista,Gerência Comercial - Sul
+31,Feminino,Até 25 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Assistente de Estoque,Analista/Especialista,Gerência Administrativa
+32,Masculino,26 a 35 anos,De 1 a 3 anos,Ensino Médio,CLT,Operacional,Backoffice,Rio Manso - GO,Comercial - Vendas,Gerente Comercial,Cargo de Gestão,Gerência Administrativa
+33,Masculino,26 a 35 anos,De 3 a 5 anos,Pós-Graduação,CLT,Operacional,Backoffice,Monte Claro - GO,Comercial - Vendas,Auxiliar Administrativo,Analista/Especialista,Gerência Comercial - Norte
+34,Masculino,26 a 35 anos,Menos de 1 ano,Ensino Médio,CLT,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Auxiliar Administrativo,Cargo de Gestão,Gerência Comercial - Norte
+35,Feminino,26 a 35 anos,De 1 a 3 anos,Ensino Superior,CLT,Operacional,Comercial,Monte Claro - GO,Recursos Humanos,Analista Administrativo,Auxiliar/Assistente,Gerência Comercial - Sul
+36,Feminino,26 a 35 anos,Menos de 1 ano,Ensino Superior,CLT,Operacional,Comercial,Rio Manso - GO,Comercial - Vendas,Assistente de Estoque,Consultor Comercial,Gerência Financeira
+37,Feminino,Até 25 anos,De 1 a 3 anos,Ensino Superior,CLT,Operacional,Backoffice,Campo Verde - GO,Logística - Administrativo,Auxiliar Administrativo,Auxiliar/Assistente,Gerência Financeira
+38,Masculino,26 a 35 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Campo Verde - GO,Logística - Administrativo,Auxiliar Administrativo,Consultor Comercial,Diretoria Comercial
+39,Masculino,36 a 45 anos,Acima de 5 anos,Pós-Graduação,CLT,Liderança,Backoffice,Campo Verde - GO,Comercial - Vendas,Consultor de Vendas,Consultor Comercial,Gerência Financeira
+40,Feminino,36 a 45 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Administrativo,Auxiliar Administrativo,Auxiliar/Assistente,Diretoria Comercial
+41,Masculino,Até 25 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Logística - Administrativo,Analista de RH,Auxiliar/Assistente,Gerência Financeira
+42,Masculino,36 a 45 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Comercial,Serra Alta - GO,Administrativo,Assistente de Estoque,Analista/Especialista,Gerência Administrativa
+43,Feminino,26 a 35 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Logística - Armazenagem,Consultor de Vendas,Cargo de Gestão,Gerência Administrativa
+44,Masculino,Acima de 45 anos,Menos de 1 ano,Ensino Superior,PJ,Liderança,Backoffice,Serra Alta - GO,Comercial - Vendas,Analista de RH,Consultor Comercial,Gerência Comercial - Norte
+45,Feminino,26 a 35 anos,Acima de 5 anos,Ensino Médio,PJ,Operacional,Backoffice,Campo Verde - GO,Comercial - Vendas,Analista de RH,Auxiliar/Assistente,Gerência Administrativa
+46,Feminino,26 a 35 anos,De 1 a 3 anos,Ensino Superior,CLT,Operacional,Comercial,Vale Dourado - MG,Comercial - Vendas,Auxiliar Administrativo,Analista/Especialista,Gerência Administrativa
+47,Masculino,36 a 45 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Rio Manso - GO,Logística - Armazenagem,Analista Financeiro,Auxiliar/Assistente,Gerência Administrativa
+48,Feminino,36 a 45 anos,De 1 a 3 anos,Pós-Graduação,CLT,Operacional,Backoffice,Serra Alta - GO,Logística - Armazenagem,Analista de RH,Cargo de Gestão,Gerência Comercial - Sul
+49,Masculino,Acima de 45 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Administrativo,Analista Administrativo,Auxiliar/Assistente,Gerência Administrativa
+50,Masculino,Até 25 anos,De 1 a 3 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Logística - Administrativo,Assistente de Estoque,Analista/Especialista,Gerência Financeira
+51,Feminino,26 a 35 anos,De 1 a 3 anos,Pós-Graduação,CLT,Operacional,Backoffice,Monte Claro - GO,Logística - Armazenagem,Consultor de Vendas,Consultor Comercial,Gerência Administrativa
+52,Feminino,Até 25 anos,De 1 a 3 anos,Ensino Superior,CLT,Liderança,Backoffice,Serra Alta - GO,Logística - Armazenagem,Analista Administrativo,Auxiliar/Assistente,Gerência Financeira
+53,Feminino,26 a 35 anos,Acima de 5 anos,Ensino Médio,CLT,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Assistente de Estoque,Auxiliar/Assistente,Diretoria Comercial
+54,Masculino,36 a 45 anos,Acima de 5 anos,Ensino Médio,CLT,Operacional,Backoffice,Serra Alta - GO,Financeiro,Consultor de Vendas,Auxiliar/Assistente,Gerência Comercial - Sul
+55,Masculino,36 a 45 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Campo Verde - GO,Recursos Humanos,Auxiliar Administrativo,Analista/Especialista,Gerência Comercial - Norte
+56,Masculino,26 a 35 anos,Menos de 1 ano,Pós-Graduação,CLT,Liderança,Backoffice,Serra Alta - GO,Comercial - Vendas,Assistente de Estoque,Analista/Especialista,Gerência Comercial - Norte
+57,Feminino,Até 25 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Gerente Comercial,Cargo de Gestão,Gerência Comercial - Norte
+58,Masculino,26 a 35 anos,De 1 a 3 anos,Ensino Superior,Outros,Operacional,Comercial,Serra Alta - GO,Logística - Armazenagem,Analista Administrativo,Auxiliar/Assistente,Gerência Administrativa
+59,Masculino,Acima de 45 anos,De 1 a 3 anos,Ensino Médio,CLT,Operacional,Backoffice,Serra Alta - GO,Administrativo,Auxiliar Administrativo,Auxiliar/Assistente,Gerência Administrativa
+60,Masculino,26 a 35 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Comercial,Monte Claro - GO,Logística - Armazenagem,Consultor de Vendas,Consultor Comercial,Gerência Financeira
+61,Masculino,Acima de 45 anos,Menos de 1 ano,Ensino Superior,CLT,Liderança,Comercial,Serra Alta - GO,Comercial - Vendas,Analista Financeiro,Cargo de Gestão,Gerência Comercial - Sul
+62,Masculino,Acima de 45 anos,Acima de 5 anos,Ensino Superior,CLT,Liderança,Backoffice,Serra Alta - GO,Logística - Administrativo,Analista Financeiro,Auxiliar/Assistente,Gerência Financeira
+63,Feminino,Até 25 anos,De 1 a 3 anos,Ensino Superior,Outros,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Auxiliar Administrativo,Analista/Especialista,Gerência Financeira
+64,Feminino,26 a 35 anos,De 1 a 3 anos,Pós-Graduação,CLT,Operacional,Backoffice,Serra Alta - GO,Logística - Armazenagem,Auxiliar Administrativo,Analista/Especialista,Gerência Administrativa
+65,Feminino,Até 25 anos,Acima de 5 anos,Ensino Superior,PJ,Liderança,Comercial,Serra Alta - GO,Recursos Humanos,Analista Administrativo,Auxiliar/Assistente,Gerência Comercial - Norte
+66,Feminino,26 a 35 anos,Menos de 1 ano,Ensino Superior,PJ,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Gerente Comercial,Cargo de Gestão,Gerência Comercial - Sul
+67,Masculino,26 a 35 anos,De 1 a 3 anos,Ensino Superior,Outros,Operacional,Backoffice,Campo Verde - GO,Administrativo,Auxiliar Administrativo,Analista/Especialista,Gerência Financeira
+68,Feminino,26 a 35 anos,Acima de 5 anos,Ensino Médio,CLT,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Analista Administrativo,Auxiliar/Assistente,Gerência Comercial - Sul
+69,Masculino,Acima de 45 anos,De 1 a 3 anos,Ensino Médio,CLT,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Analista Financeiro,Analista/Especialista,Gerência Comercial - Norte
+70,Masculino,36 a 45 anos,De 3 a 5 anos,Ensino Médio,PJ,Operacional,Backoffice,Serra Alta - GO,Logística - Administrativo,Consultor de Vendas,Auxiliar/Assistente,Gerência Administrativa
+71,Feminino,Acima de 45 anos,De 3 a 5 anos,Ensino Superior,CLT,Liderança,Backoffice,Serra Alta - GO,Administrativo,Analista Administrativo,Cargo de Gestão,Gerência Administrativa
+72,Masculino,36 a 45 anos,Acima de 5 anos,Pós-Graduação,CLT,Operacional,Comercial,Serra Alta - GO,Recursos Humanos,Analista Administrativo,Cargo de Gestão,Gerência Financeira
+73,Masculino,26 a 35 anos,De 1 a 3 anos,Ensino Superior,Outros,Operacional,Backoffice,Rio Manso - GO,Comercial - Vendas,Analista Financeiro,Consultor Comercial,Gerência Administrativa
+74,Feminino,36 a 45 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Consultor de Vendas,Analista/Especialista,Gerência Comercial - Norte
+75,Feminino,Até 25 anos,De 1 a 3 anos,Ensino Superior,CLT,Operacional,Comercial,Campo Verde - GO,Logística - Armazenagem,Assistente de Estoque,Auxiliar/Assistente,Gerência Comercial - Sul
+76,Feminino,26 a 35 anos,De 1 a 3 anos,Ensino Superior,PJ,Liderança,Comercial,Serra Alta - GO,Logística - Administrativo,Consultor de Vendas,Consultor Comercial,Gerência Comercial - Sul
+77,Masculino,36 a 45 anos,De 1 a 3 anos,Pós-Graduação,CLT,Operacional,Comercial,Rio Manso - GO,Logística - Administrativo,Analista de RH,Consultor Comercial,Gerência Comercial - Norte
+78,Feminino,26 a 35 anos,Menos de 1 ano,Ensino Superior,CLT,Liderança,Comercial,Serra Alta - GO,Administrativo,Analista de RH,Consultor Comercial,Gerência Administrativa
+79,Masculino,Acima de 45 anos,De 3 a 5 anos,Ensino Médio,Outros,Operacional,Backoffice,Campo Verde - GO,Administrativo,Consultor de Vendas,Analista/Especialista,Gerência Administrativa
+80,Masculino,36 a 45 anos,Acima de 5 anos,Ensino Médio,CLT,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Assistente de Estoque,Analista/Especialista,Gerência Comercial - Sul
+81,Feminino,26 a 35 anos,Acima de 5 anos,Ensino Médio,PJ,Operacional,Backoffice,Rio Manso - GO,Financeiro,Assistente de Estoque,Auxiliar/Assistente,Gerência Comercial - Norte
+82,Masculino,36 a 45 anos,De 1 a 3 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Administrativo,Auxiliar Administrativo,Auxiliar/Assistente,Gerência Administrativa
+83,Masculino,Até 25 anos,Menos de 1 ano,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Financeiro,Consultor de Vendas,Analista/Especialista,Gerência Comercial - Norte
+84,Masculino,Até 25 anos,De 3 a 5 anos,Ensino Superior,Outros,Operacional,Backoffice,Monte Claro - GO,Logística - Administrativo,Auxiliar Administrativo,Consultor Comercial,Gerência Comercial - Sul
+85,Masculino,Acima de 45 anos,Acima de 5 anos,Ensino Médio,PJ,Liderança,Comercial,Serra Alta - GO,Administrativo,Consultor de Vendas,Cargo de Gestão,Gerência Administrativa
+86,Masculino,26 a 35 anos,De 3 a 5 anos,Pós-Graduação,CLT,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Consultor de Vendas,Consultor Comercial,Gerência Comercial - Sul
+87,Masculino,Acima de 45 anos,Menos de 1 ano,Pós-Graduação,CLT,Operacional,Backoffice,Serra Alta - GO,Administrativo,Analista Administrativo,Analista/Especialista,Gerência Comercial - Sul
+88,Feminino,Acima de 45 anos,De 3 a 5 anos,Ensino Superior,PJ,Operacional,Backoffice,Rio Manso - GO,Logística - Armazenagem,Auxiliar Administrativo,Auxiliar/Assistente,Gerência Administrativa
+89,Masculino,Até 25 anos,Acima de 5 anos,Ensino Superior,CLT,Liderança,Backoffice,Campo Verde - GO,Comercial - Vendas,Consultor de Vendas,Consultor Comercial,Gerência Administrativa
+90,Masculino,26 a 35 anos,De 3 a 5 anos,Pós-Graduação,CLT,Operacional,Backoffice,Serra Alta - GO,Comercial - Vendas,Assistente de Estoque,Consultor Comercial,Gerência Financeira
+91,Feminino,36 a 45 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Comercial,Monte Claro - GO,Comercial - Vendas,Consultor de Vendas,Consultor Comercial,Gerência Comercial - Norte
+92,Masculino,36 a 45 anos,De 1 a 3 anos,Ensino Superior,CLT,Operacional,Backoffice,Serra Alta - GO,Logística - Administrativo,Analista Financeiro,Cargo de Gestão,Gerência Comercial - Norte
+93,Feminino,Acima de 45 anos,Menos de 1 ano,Ensino Superior,CLT,Operacional,Comercial,Vale Dourado - MG,Comercial - Vendas,Analista Administrativo,Cargo de Gestão,Gerência Administrativa
+94,Feminino,36 a 45 anos,De 3 a 5 anos,Ensino Superior,PJ,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Analista de RH,Analista/Especialista,Gerência Comercial - Norte
+95,Feminino,36 a 45 anos,Acima de 5 anos,Ensino Superior,PJ,Operacional,Comercial,Serra Alta - GO,Comercial - Vendas,Consultor de Vendas,Auxiliar/Assistente,Gerência Comercial - Norte
+96,Masculino,36 a 45 anos,Acima de 5 anos,Ensino Superior,CLT,Operacional,Backoffice,Rio Manso - GO,Comercial - Vendas,Analista Administrativo,Cargo de Gestão,Gerência Administrativa
+97,Masculino,Até 25 anos,De 1 a 3 anos,Ensino Superior,PJ,Liderança,Backoffice,Serra Alta - GO,Recursos Humanos,Assistente de Estoque,Consultor Comercial,Gerência Comercial - Sul
+98,Masculino,36 a 45 anos,De 3 a 5 anos,Pós-Graduação,CLT,Operacional,Backoffice,Vale Dourado - MG,Logística - Armazenagem,Auxiliar Administrativo,Analista/Especialista,Gerência Financeira
+99,Feminino,36 a 45 anos,Menos de 1 ano,Pós-Graduação,CLT,Operacional,Comercial,Monte Claro - GO,Comercial - Vendas,Consultor de Vendas,Consultor Comercial,Gerência Administrativa
+100,Masculino,36 a 45 anos,De 3 a 5 anos,Ensino Superior,CLT,Operacional,Comercial,Vale Dourado - MG,Administrativo,Analista de RH,Consultor Comercial,Gerência Comercial - Sul
