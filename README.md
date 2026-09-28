@@ -78,7 +78,12 @@ organizational-climate-survey/
 ├── data/
 │   ├── respondents.csv
 │   ├── items.csv
-│   └── responses.csv
+│   ├── responses.csv
+│   └── admissoes.csv     hire/response dates (synthetic), used in estudos/
+├── estudos/
+│   ├── ROTEIRO.md        study guide (PT-BR): subqueries, CTEs, window functions, dates
+│   ├── respostas.sql     solutions to the guide's exercises
+│   └── setup_admissoes.sql
 ├── exercises.sql        10 solved exercises, easy to hard
 ├── GUIDE.md              step-by-step roadmap + worked examples
 ├── LICENSE
